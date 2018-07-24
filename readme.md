@@ -7,7 +7,7 @@ This is a Windows batch script I wrote to maintain junctions (symlinks) between 
 
 This allows you to have X-Plane and your Ortho4XP scenery on separate hard drives.  In my case, X-Plane lives on my SSD, and all my ortho scenery lives on a much larger non-SSD hard drive.
 
-Under the hood, all this script does it take the legwork out of you having to go and create these links by hand every time you change something. It scans the Tiles directory of your Ortho4XP install when run and creates any links that need to be created.  The end result is that your X-Plane directory has will have a link to every `zOrtho4XP_` folder that exists in your Ortho4XP install.
+Under the hood, all this script does it take the legwork out of you having to go and create these links by hand every time you change something. It scans the `Tiles` directory of your Ortho4XP install when run and creates any links that need to be created.  The end result is that your X-Plane directory has will have a link to every `zOrtho4XP_` folder that exists in your Ortho4XP install.
 
 ## Requirements
 
