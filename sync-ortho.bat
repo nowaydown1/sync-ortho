@@ -4,7 +4,7 @@ REM
 REM This is a simple batch script for Windows that will create symbolic directory links for your Ortho4XP
 REM tiles. This is useful if you want to keep your Ortho scenery on a different drive than where your copy
 REM of X-Plane is installed.  The script is designed to be placed inside your main X-Plane 11 folder (C:\X-Plane 11).
-REM
+REM 
 REM Set the XPlaneInstallDirectory and Ortho4XPDirectory below to match your installation before running the script. 
 REM
 REM ----------- [ USER CONFIG ] -----------
