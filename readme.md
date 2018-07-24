@@ -17,7 +17,7 @@ Under the hood, all this script does it take the legwork out of you having to go
 
 ## Installation
 
-To install, download the sync-ortho.bat file and save it in `C:\X-Plane 11` (or whatever directory is your main X-Plane folder).  Assuming that your X-Plane install is `C:\X-Plane 11`, the final path should look like `C:\X-Plane 11\sync-ortho.bat`.  
+To install, [download the sync-ortho.bat](sync-ortho.bat) (right click, save as) file and save it in `C:\X-Plane 11` (or whatever directory is your main X-Plane folder).  Assuming that your X-Plane install is `C:\X-Plane 11`, the final path should look like `C:\X-Plane 11\sync-ortho.bat`.  
 
 ## Usage
 
