@@ -9,6 +9,12 @@ The advantage to this is that you have your main X-Plane install and your Ortho4
 
 Under the hood, all this script does it take the legwork out of you having to go and create these links by hand every time you change something. It scans the Tiles directory of your Ortho4XP install when you run it and creates any links that need to be created so that your X-Plane directory has a link to every `zOrtho4XP_` folder that exists in your Ortho4XP install.
 
+## Requirements
+
+* Windows
+* X-Plane 11 / 10
+* Ortho4XP
+
 ## Installation
 
 To install this is simply download the sync-ortho.bat file and save it in `C:\X-Plane 11` (or whatever directory is your main X-Plane folder).  Assuming that your X-Plane install is `C:\X-Plane 11`, the final path should be `C:\X-Plane 11\sync-ortho.bat`.  
